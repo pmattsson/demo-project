@@ -3,3 +3,4 @@ requests==2.31.0
 py-pgp==0.0.1
 postgres==4.0
 Twisted==23.8.0
+genepy3d-gpl==0.2.1
